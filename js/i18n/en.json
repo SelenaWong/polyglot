@@ -1,0 +1,13 @@
+{
+  "@metadata": {
+    "authors": [
+      "Me"
+    ],
+    "last-updated": "2016-09-21",
+    "locale": "en",
+    "message-documentation": "qqq"
+  },
+  "app-title": "Example Application",
+  "app-sub-title": "An example application with jquery.i18n",
+  "welcome": "Welcome, $1!"
+}

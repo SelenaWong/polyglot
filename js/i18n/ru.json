@@ -1,0 +1,11 @@
+{
+  "@metadata": {
+    "authors": [
+      "Ilya"
+    ],
+    "last-updated": "2016-10-25",
+    "locale": "ru"
+  },
+  "app-title": "Тестовое приложение",
+  "welcome": "Добро пожаловать, $1!"
+}

@@ -1,0 +1,11 @@
+{
+  "@metadata": {
+    "authors": [
+      "张"
+    ],
+    "last-updated": "2019-06-25",
+    "locale": "zh"
+  },
+  "app-title": "示例应用",
+  "welcome": "欢迎, $1!"
+}
